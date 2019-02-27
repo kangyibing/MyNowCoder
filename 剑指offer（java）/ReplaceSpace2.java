@@ -1,5 +1,5 @@
 /**
- *指针法
+ * ָ�뷨
  */
 public class ReplaceSpace2 {
     public String replaceSpace(StringBuffer str) {
